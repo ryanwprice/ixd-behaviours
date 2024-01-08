@@ -7,24 +7,16 @@ layout: home
 
 **Professor:** Ryan Price     
 **Email:** [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)
-
-**PAL (Monday):** Joshua Du Plessis      
-**Email:** [joshua.duplessis@sheridancollege.ca](mailto:joshua.duplessis@sheridancollege.ca)
-
+<!--
 **PAL (Friday):** Trang Do      
 **Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)
+-->
 
 ## Communication
 
-### Office Hours
+MS Teams is the main form of communication for the class. I will post information to our class Team and may message you directly via the Chat.
 
-Office hours will occur during class. We have 6 hours each week, which is more than enough time to discuss anything you may need help with.
-
-### Email
-
-Make sure that you check your Sheridan email (and Slate) account regularly, as I may send any course updates and information to this account. You can setup your account to forward to your personal email account, so you never miss any relevant information. You should also setup your Slate email to forward to your Sheridan email as well.
-
-I can be reached at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca) and will reply within 24 hours except on the weekends. If you do not get a response within this time, please assume that your email was not delivered and send it again.
+I can be reached at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca) and will reply within 24 hours. If you do not get a response within this time, please assume that your email was not delivered and send it again.
 
 Emailing me the night before an assignment is due will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.
 

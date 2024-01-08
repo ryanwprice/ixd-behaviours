@@ -5,10 +5,10 @@ permalink: /schedule/
 ---
 
 ## Week 01 
-Week commencing: Jan 9
+Week commencing: Jan 8
 
 ### Async
-- [App Analysis](/assets/app-analysis.xd)
+- [App Analysis](/assets/App%20Analysis.fig)
 - [1-2 DOM](https://web.microsoftstream.com/video/8eb67b4f-c77e-489a-b507-8836eb465dbf)
 - [1-3 Date](https://web.microsoftstream.com/video/6eba0320-d53c-402e-ba01-0d7a5dd49084)
 
@@ -16,15 +16,15 @@ Week commencing: Jan 9
 
 - Class overview
 - [Intro to UX writing](/assets/ppt/01-writing-skills.pdf)
-- [Ideation breakout](/assets/ideation-breakout.xd)
+- [Ideation breakout](/assets/Ideation%20Breakout.fig)
 
 
 ## Week 02
-Week commencing: Jan 16
+Week commencing: Jan 15
 
 ### Async
 
-- [Empathy Map](/assets/empathy-map.xd)
+- [Empathy Map](/assets/Empathy%20Map.fig)
 - [Variables](https://web.microsoftstream.com/video/5bbab0e3-1e39-45e6-a255-53c6a652ed06)
 - [Forms](https://web.microsoftstream.com/video/7e1469b3-ac86-40fd-939a-9c06bcef0f1d)
 - [Slider](https://web.microsoftstream.com/video/9b070a9c-f53c-4e1d-b6ad-fcb6c65f34df)
@@ -34,39 +34,39 @@ Week commencing: Jan 16
 
 - [Design Research](/assets/ppt/design-research.pdf)
 - Skill Tester tutorial (link to be provided)
-- [Reality Check](/assets/reality-check.xd)
+- [Reality Check](/assets/Reality%20Check.fig)
 
 ## Week 03
-Week commencing: Jan 23
+Week commencing: Jan 22
 
 ### Async
 
-- [Colour & Type exercises](/assets/colour-and-type-exercises.xd)
+- [Type exercise](/assets/Typography.fig)
 - [Hover animation](https://web.microsoftstream.com/video/02bbad5d-c519-427a-9d4e-e2d84ee48a38)
 - [Click animation](https://web.microsoftstream.com/video/4624a846-336a-4918-bdd9-e8b02a0530b8)
 - [Keyframe animation](https://web.microsoftstream.com/video/dcfdca71-c014-463b-82c3-47f7a4c47f1f)
 
 ### Sync
 
-- [Goals, Motivations, Personas](/assets/goals-motivations-personas.xd)
+- [Goals, Motivations, Personas](/assets/Goals%20and%20motivations.fig)
 - [Usability](/assets/ppt/usability.pdf)
 - Rocket tutorial (link to be provided)
 
 ## Week 04
-Week commencing: Jan 30
+Week commencing: Jan 29
 
 ### Async
 
-- [User Flow + Style Tile](/assets/user-flow-style-tile.xd)
+- [Style Tile](/assets/Style%20Tile.fig)
 - [Random Answers](https://web.microsoftstream.com/video/553ed432-a052-4ba6-b3cf-eaf1042611f5)
 - [Random Responses](https://web.microsoftstream.com/video/4f083582-5bc9-4bdb-b9a1-973c51d45c6a)
 
 ### Sync
 
-- [One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
+- One-on-one meeting: Project Review
 
 ## Week 05
-Week commencing: Feb 6
+Week commencing: Feb 5
 
 **Project 1 Due at the end of class**
 
@@ -81,11 +81,11 @@ Week commencing: Feb 6
 - Work period to complete project. Ryan is on-call via Teams.
 
 ## Week 06
-Week commencing: Feb 13
+Week commencing: Feb 12
 
 ### Async
 
-- [More Colour and Type Exercises](/assets/more-colour-and-type-exercises.xd)
+- [Colour Exercise](/assets/Colour%20Exercise.fig)
 - [Simple Directions](https://web.microsoftstream.com/video/6da8a4d3-1d15-4b9e-aa85-6b9050f3690a)
 - [Advanced Directions](https://web.microsoftstream.com/video/016781b8-c738-46ea-833d-d35dec76d811)
 
@@ -97,24 +97,18 @@ Week commencing: Feb 13
 
 
 ## Week 07
-Week commencing: Feb 20
-
-### Async
+Week commencing: Feb 19
 
 - Due to family day, this will be a catch up week to bring forward any issues and help you create your project.
-
-### Sync
-
-- Please add any questions you have to the Slate discussion (Catch up questions for week 7).
 
 **Reading Week**
 
 ## Week 08
-Week commencing: Mar 7
+Week commencing: Mar 4
 
 ### Async
 
-- [Persona + Style Tile](/assets/persona-style-tile.xd)
+- [Persona + Style Tile](/assets/Persona.fig)
 - [Weather](https://web.microsoftstream.com/video/26ef6a15-969f-4777-99c4-42e225521bc0)
 - [Weather Geolocation](https://web.microsoftstream.com/video/c8270b5a-e8e9-4404-a64c-28393825aa7c)
 - [Books](https://web.microsoftstream.com/video/6a9bf5dc-492f-412b-becc-56c5644bb0e7)
@@ -127,7 +121,7 @@ Week commencing: Mar 7
 - 'Merica Bucks (links to be provided)
 
 ## Week 09
-Week commencing: Mar 14
+Week commencing: Mar 11
 
 **Project 2 Due at the end of class**
 
@@ -141,7 +135,7 @@ Week commencing: Mar 14
 -[TBD]()
 
 ## Week 10
-Week commencing: Mar 21
+Week commencing: Mar 18
 
 ### Async
 
@@ -156,28 +150,30 @@ Week commencing: Mar 21
 
 
 ## Week 11
-Week Commencing: Mar 28
+Week Commencing: Mar 25
+
+** No Friday Class because of Good Friday**
 
 ### Async
 
-- [Even More Colour and Type Exercises](/assets/even-more-colour-and-type-exercises.xd)
-- [App Store Product Page](/assets/app-store-product-page.xd)
+<!-- - [Even More Colour and Type Exercises](/assets/ev) -->
+<!-- - [App Store Product Page](/assets/app-store-product-page.xd) -->
 - [Gestures](https://web.microsoftstream.com/video/7f6f8c9b-3e37-4844-a7da-2a457f7ec444)
 - [Tabs](https://web.microsoftstream.com/video/2ad76951-9b33-4ea0-8950-fbd75a301791)
 
 ### Sync
 
-- [One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
+- One-on-one meeting: Project Review
 
 ## Week 12
-Week Commencing: Apr 4
+Week Commencing: Apr 1
 
 ### Async
 
-- [More Persona + Style Tiles](/assets/more-persona-style-tile.xd)
+- [More Personas](/assets/Persona.fig)
 - [Local Storage](https://web.microsoftstream.com/video/4cdfeb89-77d4-4ba6-b17e-3acd1a736d53)
 - [Dark mode Storage](https://web.microsoftstream.com/video/aab76f66-e91e-4564-b7be-77987a0cdf16)
-- [Observation Frameworks](/assets/observation-frameworks.xd)
+- [Observation Frameworks](/assets/observation-frameworks.fig)
 
 ### Sync
 
@@ -186,7 +182,7 @@ Week Commencing: Apr 4
 
 
 ## Week 13
-Week commencing: Apr 11
+Week commencing: Apr 8
 
 ### Async
 
@@ -195,9 +191,10 @@ Week commencing: Apr 11
 
 ### Sync
 
-- Work Period / Good Friday
+- Work Period
 
 ## Week 14
+Week commencing: Apr 15
 
 **Project 3 & 4 Due at the end of class**
 
