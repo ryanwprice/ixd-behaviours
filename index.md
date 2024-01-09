@@ -9,11 +9,11 @@ layout: home
 **Email:** [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)    
 
 **PAL (Monday):** Florence Lee      
-**Email:** [hsuantzu.lee@sheridancollege.ca](mailto:hsuantzu.lee@sheridancollege.ca)
+**Email:** [hsuantzu.lee@sheridancollege.ca](mailto:hsuantzu.lee@sheridancollege.ca)    
 **Tutoring:** [https://sheridan.tutorocean.com/host/HsuanTzuL](https://sheridan.tutorocean.com/host/HsuanTzuL)
 
 **PAL (Friday):** Trang Do      
-**Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)
+**Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)    
 **Tutoring:** [https://sheridan.tutorocean.com/host/hanhtrangd](https://sheridan.tutorocean.com/host/hanhtrangd)
 
 
