@@ -25,7 +25,7 @@ Week commencing: Jan 15
 
 ### Async
 
-- [Empathy Map](/assets/Empathy%20Map.fig)
+- [Empathy Map](/assets/empathy-map.fig)
 - [Variables](https://web.microsoftstream.com/video/5bbab0e3-1e39-45e6-a255-53c6a652ed06)
 - [Forms](https://web.microsoftstream.com/video/7e1469b3-ac86-40fd-939a-9c06bcef0f1d)
 - [Slider](https://web.microsoftstream.com/video/9b070a9c-f53c-4e1d-b6ad-fcb6c65f34df)
