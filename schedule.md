@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule 2024
+title: Schedule 
 permalink: /schedule/
 ---
 
@@ -8,16 +8,16 @@ permalink: /schedule/
 Week commencing: Jan 8
 
 ### Async
-- [App Analysis](/assets/App%20Analysis.fig)
-- [Coder Overview](/assets/Coder%20Intro.mp4)
+- [App Analysis](../assets/App%20Analysis.fig)
+- [Coder Overview](../assets/Coder%20Intro.mp4)
 - [1-2 DOM](https://web.microsoftstream.com/video/8eb67b4f-c77e-489a-b507-8836eb465dbf)
 - [1-3 Date](https://web.microsoftstream.com/video/6eba0320-d53c-402e-ba01-0d7a5dd49084)
 
 ### Sync
 
 - Class overview
-- [Intro to UX writing](/assets/ppt/01-writing-skills.pdf)
-- [Ideation breakout](/assets/Ideation%20Breakout.fig)
+- [Intro to UX writing]()../assets/ppt/01-writing-skills.pdf)
+- [Ideation breakout](../assets/Ideation%20Breakout.fig)
 
 
 ## Week 02
@@ -25,7 +25,7 @@ Week commencing: Jan 15
 
 ### Async
 
-- [Empathy Map](/assets/empathy-map.fig)
+- [Empathy Map](../assets/empathy-map.fig)
 - [Variables](https://web.microsoftstream.com/video/5bbab0e3-1e39-45e6-a255-53c6a652ed06)
 - [Forms](https://web.microsoftstream.com/video/7e1469b3-ac86-40fd-939a-9c06bcef0f1d)
 - [Slider](https://web.microsoftstream.com/video/9b070a9c-f53c-4e1d-b6ad-fcb6c65f34df)
@@ -33,24 +33,24 @@ Week commencing: Jan 15
 
 ### Sync
 
-- [Design Research](/assets/ppt/design-research.pdf)
+- [Design Research](../assets/ppt/design-research.pdf)
 - Skill Tester tutorial (link to be provided)
-- [Reality Check](/assets/Reality%20Check.fig)
+- [Reality Check](../assets/Reality%20Check.fig)
 
 ## Week 03
 Week commencing: Jan 22
 
 ### Async
 
-- [Type exercise](/assets/Typography.fig)
+- [Type exercise](../assets/Typography.fig)
 - [Hover animation](https://web.microsoftstream.com/video/02bbad5d-c519-427a-9d4e-e2d84ee48a38)
 - [Click animation](https://web.microsoftstream.com/video/4624a846-336a-4918-bdd9-e8b02a0530b8)
 - [Keyframe animation](https://web.microsoftstream.com/video/dcfdca71-c014-463b-82c3-47f7a4c47f1f)
 
 ### Sync
 
-- [Goals, Motivations, Personas](/assets/Goals%20and%20motivations.fig)
-- [Usability](/assets/ppt/usability.pdf)
+- [Goals, Motivations, Personas](../assets/Goals%20and%20motivations.fig)
+- [Usability](../assets/ppt/usability.pdf)
 - Rocket tutorial (link to be provided)
 
 ## Week 04
@@ -58,7 +58,7 @@ Week commencing: Jan 29
 
 ### Async
 
-- [Style Tile](/assets/Style%20Tile.fig)
+- [Style Tile](../assets/Style%20Tile.fig)
 - [Random Answers](https://web.microsoftstream.com/video/553ed432-a052-4ba6-b3cf-eaf1042611f5)
 - [Random Responses](https://web.microsoftstream.com/video/4f083582-5bc9-4bdb-b9a1-973c51d45c6a)
 
@@ -86,13 +86,13 @@ Week commencing: Feb 12
 
 ### Async
 
-- [Colour Exercise](/assets/Colour%20Exercise.fig)
+- [Colour Exercise](../assets/Colour%20Exercise.fig)
 - [Simple Directions](https://web.microsoftstream.com/video/6da8a4d3-1d15-4b9e-aa85-6b9050f3690a)
 - [Advanced Directions](https://web.microsoftstream.com/video/016781b8-c738-46ea-833d-d35dec76d811)
 
 ### Sync
 
-- [Don't Make Me Think 2](/assets/ppt/dont-make-me-think-2.pdf)
+- [Don't Make Me Think 2](../assets/ppt/dont-make-me-think-2.pdf)
 - Objects & Arrays (links to be provided)
 
 
@@ -109,16 +109,16 @@ Week commencing: Mar 4
 
 ### Async
 
-- [Persona + Style Tile](/assets/Persona.fig)
+- [Persona + Style Tile](../assets/Persona.fig)
 - [Weather](https://web.microsoftstream.com/video/26ef6a15-969f-4777-99c4-42e225521bc0)
 - [Weather Geolocation](https://web.microsoftstream.com/video/c8270b5a-e8e9-4404-a64c-28393825aa7c)
 - [Books](https://web.microsoftstream.com/video/6a9bf5dc-492f-412b-becc-56c5644bb0e7)
 
 ### Sync
 
-- [Usability Testing](/assets/ppt/usability-testing.pdf)
-- [Preparing for Usability Testing](/assets/preparing-for-user-testing.pdf)
-- [Testing Script](/assets/testing-script.pdf)
+- [Usability Testing](../assets/ppt/usability-testing.pdf)
+- [Preparing for Usability Testing](../assets/preparing-for-user-testing.pdf)
+- [Testing Script](../assets/testing-script.pdf)
 - 'Merica Bucks (links to be provided)
 
 ## Week 09
@@ -146,7 +146,7 @@ Week commencing: Mar 18
 
 ### Sync
 
-- [Information Architecture & Content Strategy](/assets/ppt/information-architecture-content-strategy.pdf)
+- [Information Architecture & Content Strategy](../assets/ppt/information-architecture-content-strategy.pdf)
 - SVG tutorial (links to be provided)
 
 
@@ -157,8 +157,8 @@ Week Commencing: Mar 25
 
 ### Async
 
-<!-- - [Even More Colour and Type Exercises](/assets/ev) -->
-<!-- - [App Store Product Page](/assets/app-store-product-page.xd) -->
+<!-- - [Even More Colour and Type Exercises](../assets/ev) -->
+<!-- - [App Store Product Page](../assets/app-store-product-page.xd) -->
 - [Gestures](https://web.microsoftstream.com/video/7f6f8c9b-3e37-4844-a7da-2a457f7ec444)
 - [Tabs](https://web.microsoftstream.com/video/2ad76951-9b33-4ea0-8950-fbd75a301791)
 
@@ -171,15 +171,15 @@ Week Commencing: Apr 1
 
 ### Async
 
-- [More Personas](/assets/Persona.fig)
+- [More Personas](../assets/Persona.fig)
 - [Local Storage](https://web.microsoftstream.com/video/4cdfeb89-77d4-4ba6-b17e-3acd1a736d53)
 - [Dark mode Storage](https://web.microsoftstream.com/video/aab76f66-e91e-4564-b7be-77987a0cdf16)
-- [Observation Frameworks](/assets/observation-frameworks.fig)
+- [Observation Frameworks](../assets/observation-frameworks.fig)
 
 ### Sync
 
-- [Persuasive Writing](/assets/ppt/persuasive-writing.pdf)
-- [Ethnography](/assets/ppt/ethnography.pdf)
+- [Persuasive Writing](../assets/ppt/persuasive-writing.pdf)
+- [Ethnography](../assets/ppt/ethnography.pdf)
 
 
 ## Week 13
