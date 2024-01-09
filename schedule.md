@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule 2024
 permalink: /schedule/
 ---
 
