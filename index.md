@@ -48,7 +48,7 @@ If there is a valid reason for the late assignment, the student must email their
 
 There will be no resubmission of work unless:    
 A) under exceptional circumstances, this has been agreed to or suggested by the professor.    
-B) you hand work in **on time** and the work is of a **failing grade**, you will be given the opportunity to resubmit the work within one week of receiving the grade from your professor.
+B) you hand work in **on time** and **complete** and the work is of a **failing grade**, you will be given the opportunity to resubmit the work within one week of receiving the grade from your professor.
 
 Academic accommodations must be discussed in advance of the due date in order to work out a plan that ensures your success—simply providing extra time for an assignment can often prove detrimental to your learning in the course.
 
