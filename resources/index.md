@@ -15,3 +15,4 @@ permalink: /resources/
 - [O-Reilly Learning](https://go.oreilly.com/sheridan-college)
 - [Office 365](https://office.sheridancollege.ca)
 - [Adobe Creative Cloud](https://it.sheridancollege.ca/service-catalogue/software/students/adobe-cc.html)
+- [Javascript for Web Designers](https://javascript-for-web-designers.abookapart.com/)

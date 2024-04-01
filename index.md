@@ -32,7 +32,7 @@ Emailing me the night before an assignment is due will not likely get the desire
 
 ### Software & Hardware
 
-We will be using [Coder](https://sheridanixd.com/) to write HTML, CSS.
+We will be using [Coder (new & improved)](https://ixdcoder.com/) to write HTML, CSS.
 
 ## Grading
 
