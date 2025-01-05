@@ -16,7 +16,7 @@ Week commencing: Jan 6
 ### Sync
 
 - Class overview
-- [Intro to UX writing]()../assets/ppt/01-writing-skills.pdf)
+- Intro to UX writing
 - [Ideation breakout](../assets/Ideation%20Breakout.fig)
 
 
@@ -33,7 +33,7 @@ Week commencing: Jan 13
 
 ### Sync
 
-- [Design Research](../assets/ppt/design-research.pdf)
+- Design Research
 - Skill Tester tutorial (link to be provided)
 - [Reality Check](../assets/Reality%20Check.fig)
 
@@ -49,8 +49,9 @@ Week commencing: Jan 20
 
 ### Sync
 
-- [Goals, Motivations, Personas](../assets/Goals%20and%20motivations.fig)
-- [Usability](../assets/ppt/usability.pdf)
+- [Goals and Motivations](../assets/Goals%20and%20motivations.fig)
+- [Personas](../assets/Persona.fig)
+- Usability
 - Rocket tutorial (link to be provided)
 
 ## Week 04
@@ -79,7 +80,7 @@ Week commencing: Feb 3
 
 ### Sync
 
-- Work period to complete project. Ryan is on-call via Teams.
+- Work period to complete project. 
 
 ## Week 06
 Week commencing: Feb 10
@@ -98,7 +99,8 @@ Week commencing: Feb 10
 
 
 ## Week 07
-Week commencing: Feb 17
+Week commencing: Feb 17    
+**No Monday class—Family Day**
 
 - Due to family day, this will be a catch up week to bring forward any issues and help you create your project.
 
@@ -153,8 +155,6 @@ Week commencing: Mar 17
 ## Week 11
 Week Commencing: Mar 24
 
-** No Friday Class because of Good Friday**
-
 ### Async
 
 <!-- - [Even More Colour and Type Exercises](../assets/ev) -->
@@ -195,7 +195,8 @@ Week commencing: Apr 7
 - Work Period
 
 ## Week 14
-Week commencing: Apr 14
+Week commencing: Apr 14    
+**No Friday Class—Good Friday**
 
 **Project 3 & 4 Due at the end of class**
 
