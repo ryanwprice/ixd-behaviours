@@ -23,16 +23,21 @@ MS Teams is the main form of communication for the class. I will post informatio
 
 ### Join a Team
 
-[Join Monday's Team](https://teams.microsoft.com/l/team/19%3AJjfSwhnddczOlWIf5KkjTYnR54ztve9lk0tHTBdd3ec1%40thread.tacv2/conversations?groupId=b33e0347-445d-449c-a8a4-44117d4c14b0&tenantId=)    
-[Join Friday's Team](https://teams.microsoft.com/l/team/19%3AxK6Gr3ZbsjbKjvr9VTmwQFjpcFD6JfTgHY6hnadqfVo1%40thread.tacv2/conversations?groupId=d26978c2-f14e-48b9-bac8-3eddcd980110&tenantId=)
+_Teams are currently unavailable_    
+[Join Monday's Team](#)    
+[Join Friday's Team](#)
 
 I can be reached at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca) and will reply within 24 hours. If you do not get a response within this time, please assume that your email was not delivered and send it again.
 
-Emailing me the night before an assignment is due will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.
+Contacting me the night before an assignment is due will not likely get the desired response time, so stay on top of work to ensure your questions do not go unanswered.
 
 ### Software & Hardware
 
-We will be using [Coder (new & improved)](https://ixdcoder.com/) to write HTML, CSS.
+A code editor of your choice is needed (Phoenix, VS Code, Brackets, etc.).
+
+You will also need Figma, and the usual Adobe apps (Illustrator, Photoshop) installed and ready to go.
+
+Lastly, you need to have the Sheridan server, Phoenix, up and running before you submit your first assignment.
 
 ## Grading
 

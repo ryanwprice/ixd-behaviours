@@ -5,13 +5,13 @@ permalink: /schedule/
 ---
 
 ## Week 01 
-Week commencing: Jan 8
+Week commencing: Jan 6
 
 ### Async
 - [App Analysis](../assets/App%20Analysis.fig)
-- [Coder Overview](../assets/Coder%20Intro.mp4)
-- [1-2 DOM](https://web.microsoftstream.com/video/8eb67b4f-c77e-489a-b507-8836eb465dbf)
-- [1-3 Date](https://web.microsoftstream.com/video/6eba0320-d53c-402e-ba01-0d7a5dd49084)
+- [Setting up the template](https://youtu.be/Mo6DyNHSTWs)
+- [DOM](https://youtu.be/OJBhKaRubYo)
+- [Date](https://youtu.be/Xy-wXQabgg8)
 
 ### Sync
 
@@ -21,15 +21,15 @@ Week commencing: Jan 8
 
 
 ## Week 02
-Week commencing: Jan 15
+Week commencing: Jan 13
 
 ### Async
 
 - [Empathy Map](../assets/empathy-map.fig)
-- [Variables](https://web.microsoftstream.com/video/5bbab0e3-1e39-45e6-a255-53c6a652ed06)
-- [Forms](https://web.microsoftstream.com/video/7e1469b3-ac86-40fd-939a-9c06bcef0f1d)
-- [Slider](https://web.microsoftstream.com/video/9b070a9c-f53c-4e1d-b6ad-fcb6c65f34df)
-- [Date](https://web.microsoftstream.com/video/020cfa1a-5cc0-4786-9f98-8f11bd4cc670)
+- [Variables](https://youtu.be/3DJp8R1TArA)
+- [Forms](https://youtu.be/qkaRNBeahOI)
+- [Slider](https://youtu.be/FbIiVm-aFYI)
+- [Date](https://youtu.be/jbIQ8W8olrU)
 
 ### Sync
 
@@ -38,7 +38,7 @@ Week commencing: Jan 15
 - [Reality Check](../assets/Reality%20Check.fig)
 
 ## Week 03
-Week commencing: Jan 22
+Week commencing: Jan 20
 
 ### Async
 
@@ -54,7 +54,7 @@ Week commencing: Jan 22
 - Rocket tutorial (link to be provided)
 
 ## Week 04
-Week commencing: Jan 29
+Week commencing: Jan 27
 
 ### Async
 
@@ -67,7 +67,7 @@ Week commencing: Jan 29
 - One-on-one meeting: Project Review
 
 ## Week 05
-Week commencing: Feb 5
+Week commencing: Feb 3
 
 **Project 1 Due at the end of class**
 
@@ -82,7 +82,7 @@ Week commencing: Feb 5
 - Work period to complete project. Ryan is on-call via Teams.
 
 ## Week 06
-Week commencing: Feb 12
+Week commencing: Feb 10
 
 ### Async
 
@@ -98,14 +98,14 @@ Week commencing: Feb 12
 
 
 ## Week 07
-Week commencing: Feb 19
+Week commencing: Feb 17
 
 - Due to family day, this will be a catch up week to bring forward any issues and help you create your project.
 
 **Reading Week**
 
 ## Week 08
-Week commencing: Mar 4
+Week commencing: Mar 3
 
 ### Async
 
@@ -122,7 +122,7 @@ Week commencing: Mar 4
 - 'Merica Bucks (links to be provided)
 
 ## Week 09
-Week commencing: Mar 11
+Week commencing: Mar 10
 
 **Project 2 Due at the end of class**
 
@@ -136,7 +136,7 @@ Week commencing: Mar 11
 -[TBD]()
 
 ## Week 10
-Week commencing: Mar 18
+Week commencing: Mar 17
 
 ### Async
 
@@ -151,7 +151,7 @@ Week commencing: Mar 18
 
 
 ## Week 11
-Week Commencing: Mar 25
+Week Commencing: Mar 24
 
 ** No Friday Class because of Good Friday**
 
@@ -167,7 +167,7 @@ Week Commencing: Mar 25
 - One-on-one meeting: Project Review
 
 ## Week 12
-Week Commencing: Apr 1
+Week Commencing: Mar 31
 
 ### Async
 
@@ -183,7 +183,7 @@ Week Commencing: Apr 1
 
 
 ## Week 13
-Week commencing: Apr 8
+Week commencing: Apr 7
 
 ### Async
 
@@ -195,7 +195,7 @@ Week commencing: Apr 8
 - Work Period
 
 ## Week 14
-Week commencing: Apr 15
+Week commencing: Apr 14
 
 **Project 3 & 4 Due at the end of class**
 
