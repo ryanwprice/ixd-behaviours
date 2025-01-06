@@ -23,9 +23,14 @@ MS Teams is the main form of communication for the class. I will post informatio
 
 ### Join a Team
 
-_Teams are currently unavailable_    
-[Join Monday's Team](#)    
-[Join Friday's Team](#)
+1. Open Teams
+2. Go to the Teams tab
+3. Click “Join or create Team” in the top right corner
+4. Click “Join team”
+5. Enter the code
+
+**Monday's Team code:** rq2x9hj    
+**Friday's Team code:** ooqq7ul
 
 I can be reached at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca) and will reply within 24 hours. If you do not get a response within this time, please assume that your email was not delivered and send it again.
 
