@@ -43,9 +43,9 @@ Week commencing: Jan 20
 ### Async
 
 - [Type exercise](../assets/Typography.fig)
-- [Hover animation](https://web.microsoftstream.com/video/02bbad5d-c519-427a-9d4e-e2d84ee48a38)
-- [Click animation](https://web.microsoftstream.com/video/4624a846-336a-4918-bdd9-e8b02a0530b8)
-- [Keyframe animation](https://web.microsoftstream.com/video/dcfdca71-c014-463b-82c3-47f7a4c47f1f)
+- [Hover animation](https://youtu.be/Zs4yohi48l8)
+- [Click animation](https://youtu.be/wBNIpyEY19I)
+- [Keyframe animation](https://youtu.be/wy9JK2T-EvQ)
 
 ### Sync
 
@@ -60,8 +60,8 @@ Week commencing: Jan 27
 ### Async
 
 - [Style Tile](../assets/Style%20Tile.fig)
-- [Random Answers](https://web.microsoftstream.com/video/553ed432-a052-4ba6-b3cf-eaf1042611f5)
-- [Random Responses](https://web.microsoftstream.com/video/4f083582-5bc9-4bdb-b9a1-973c51d45c6a)
+- [Random Answers](https://youtu.be/Q6h5XTy26qc)
+- [Random Responses](https://youtu.be/Yf1yE6YaWjA)
 
 ### Sync
 
@@ -74,9 +74,9 @@ Week commencing: Feb 3
 
 ### Async
 
-- [Geolocation](https://web.microsoftstream.com/video/87af1096-904e-432b-957b-f289a5690020)
-- [Map](https://web.microsoftstream.com/video/ac4be152-2fc5-49b2-9de9-f1c617881162)
-- [Further with maps](https://web.microsoftstream.com/video/a264136b-d2d7-48f8-8c53-3b643e679f8d)
+- [Geolocation](https://youtu.be/kanxvObPLJA)
+- [Map](https://youtu.be/aB1-gvs9OJU)
+- [Further with maps](https://youtu.be/Kq1VML4l_34)
 
 ### Sync
 
@@ -88,12 +88,12 @@ Week commencing: Feb 10
 ### Async
 
 - [Colour Exercise](../assets/Colour%20Exercise.fig)
-- [Simple Directions](https://web.microsoftstream.com/video/6da8a4d3-1d15-4b9e-aa85-6b9050f3690a)
-- [Advanced Directions](https://web.microsoftstream.com/video/016781b8-c738-46ea-833d-d35dec76d811)
+- [Simple Directions](https://youtu.be/bkoNWKR3_lA)
+- [Advanced Directions](https://youtu.be/erruShWBlxg)
 
 ### Sync
 
-- [Don't Make Me Think 2](../assets/ppt/dont-make-me-think-2.pdf)
+- Don't Make Me Think 2
 - Objects & Arrays (links to be provided)
 
 
@@ -112,8 +112,8 @@ Week commencing: Mar 3
 ### Async
 
 - [Persona + Style Tile](../assets/Persona.fig)
-- [Weather](https://web.microsoftstream.com/video/26ef6a15-969f-4777-99c4-42e225521bc0)
-- [Weather Geolocation](https://web.microsoftstream.com/video/c8270b5a-e8e9-4404-a64c-28393825aa7c)
+- [Weather](https://youtu.be/ZQ3gsO4XhH0)
+- [Weather Geolocation](https://youtu.be/Ke2EAO0AQ2c)
 - [Books](https://web.microsoftstream.com/video/6a9bf5dc-492f-412b-becc-56c5644bb0e7)
 
 ### Sync
