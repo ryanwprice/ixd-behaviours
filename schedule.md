@@ -89,8 +89,8 @@ Week commencing: Feb 10
 
 - [Colour Exercise](../assets/Colour%20Exercise.fig)
 
-- <strikethrough>[Simple Directions](https://youtu.be/bkoNWKR3_lA)</strikethrough>
-- <strikethrough>[Advanced Directions](https://youtu.be/erruShWBlxg)</strikethrough>
+- <del>[Simple Directions](https://youtu.be/bkoNWKR3_lA)</del>
+- <del>[Advanced Directions](https://youtu.be/erruShWBlxg)</del>
 
 ### Sync
 
