@@ -88,8 +88,9 @@ Week commencing: Feb 10
 ### Async
 
 - [Colour Exercise](../assets/Colour%20Exercise.fig)
-- [Simple Directions](https://youtu.be/bkoNWKR3_lA)
-- [Advanced Directions](https://youtu.be/erruShWBlxg)
+
+- <strikethrough>[Simple Directions](https://youtu.be/bkoNWKR3_lA)</strikethrough>
+- <strikethrough>[Advanced Directions](https://youtu.be/erruShWBlxg)</strikethrough>
 
 ### Sync
 
