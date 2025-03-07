@@ -115,11 +115,11 @@ Week commencing: Mar 3
 - [Persona + Style Tile](../assets/Persona.fig)
 - [Weather](https://youtu.be/ZQ3gsO4XhH0)
 - [Weather Geolocation](https://youtu.be/Ke2EAO0AQ2c)
-- [Books](https://web.microsoftstream.com/video/6a9bf5dc-492f-412b-becc-56c5644bb0e7)
+- [Books](https://youtu.be/rUPUOhwtltI)
 
 ### Sync
 
-- [Usability Testing](../assets/ppt/usability-testing.pdf)
+- Usability Testing
 - [Preparing for Usability Testing](../assets/preparing-for-user-testing.pdf)
 - [Testing Script](../assets/testing-script.pdf)
 - 'Merica Bucks (links to be provided)
@@ -131,8 +131,8 @@ Week commencing: Mar 10
 
 ### Async
 
-- [Speech Synthesis](https://web.microsoftstream.com/video/343b000d-9aaf-4b81-a58a-b1dd02295cad)
-- [Speech Recognition](https://web.microsoftstream.com/video/ad2a5b13-9b8f-42eb-8430-cea9a6aecbc3)
+- [Speech Synthesis](https://youtu.be/-vM8MrQSuN0)
+- [Speech Recognition](https://youtu.be/JeeFnncXPik)
 
 ### Sync
 
@@ -160,8 +160,8 @@ Week Commencing: Mar 24
 
 <!-- - [Even More Colour and Type Exercises](../assets/ev) -->
 <!-- - [App Store Product Page](../assets/app-store-product-page.xd) -->
-- [Gestures](https://web.microsoftstream.com/video/7f6f8c9b-3e37-4844-a7da-2a457f7ec444)
-- [Tabs](https://web.microsoftstream.com/video/2ad76951-9b33-4ea0-8950-fbd75a301791)
+- [Gestures](https://youtu.be/4ia8Lopu9g4)
+- [Tabs](https://youtu.be/RlG6hzFN-0U)
 
 ### Sync
 
@@ -173,8 +173,8 @@ Week Commencing: Mar 31
 ### Async
 
 - [More Personas](../assets/Persona.fig)
-- [Local Storage](https://web.microsoftstream.com/video/4cdfeb89-77d4-4ba6-b17e-3acd1a736d53)
-- [Dark mode Storage](https://web.microsoftstream.com/video/aab76f66-e91e-4564-b7be-77987a0cdf16)
+- [Local Storage](https://youtu.be/pFc0gqroqn0)
+- [Dark mode Storage](https://youtu.be/gSqkNhfMhHY)
 - [Observation Frameworks](../assets/observation-frameworks.fig)
 
 ### Sync
@@ -188,8 +188,8 @@ Week commencing: Apr 7
 
 ### Async
 
-- [setTimeout](https://web.microsoftstream.com/video/459db439-f834-4f43-ba2b-9af6c8b4f829)
-- [setInterval](https://web.microsoftstream.com/video/5cf4d341-83a1-4fd0-b386-e8b9d2408fad)
+- [setTimeout](https://youtu.be/YMMrXJxZZsM)
+- [setInterval](https://youtu.be/4WS4W8ca02k)
 
 ### Sync
 
