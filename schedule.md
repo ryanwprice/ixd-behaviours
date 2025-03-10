@@ -143,9 +143,9 @@ Week commencing: Mar 17
 
 ### Async
 
-- [Make an SVG](https://web.microsoftstream.com/video/42781184-3a2a-4668-b5e2-085e6a98f4ba)
-- [Add an SVG to HTML](https://web.microsoftstream.com/video/77f06313-e632-4c13-9a69-da0a30d03e64)
-- [Make an SVG Interactive](https://web.microsoftstream.com/video/3715ce8b-c11e-4262-8cb6-43e16b5c89d6)
+- [Make an SVG](https://youtu.be/kwM7zFnP-VE)
+- [Add an SVG to HTML](https://youtu.be/iQhzm8BRPZ4)
+- [Make an SVG Interactive](https://youtu.be/orA3bXuwJoU)
 
 ### Sync
 
