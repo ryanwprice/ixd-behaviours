@@ -136,7 +136,7 @@ Week commencing: Mar 10
 
 ### Sync
 
--[TBD]()
+-TBD
 
 ## Week 10
 Week commencing: Mar 17
@@ -149,8 +149,8 @@ Week commencing: Mar 17
 
 ### Sync
 
-- [Information Architecture & Content Strategy](../assets/ppt/information-architecture-content-strategy.pdf)
-- SVG tutorial (links to be provided)
+- Information Architecture & Content Strategy
+- SVG tutorial 
 
 
 ## Week 11
@@ -165,7 +165,8 @@ Week Commencing: Mar 24
 
 ### Sync
 
-- One-on-one meeting: Project Review
+- Ethnography
+- Mobile Design Considerations
 
 ## Week 12
 Week Commencing: Mar 31
@@ -179,8 +180,7 @@ Week Commencing: Mar 31
 
 ### Sync
 
-- [Persuasive Writing](../assets/ppt/persuasive-writing.pdf)
-- [Ethnography](../assets/ppt/ethnography.pdf)
+- Persuasive Writing
 
 
 ## Week 13
@@ -190,6 +190,7 @@ Week commencing: Apr 7
 
 - [setTimeout](https://youtu.be/YMMrXJxZZsM)
 - [setInterval](https://youtu.be/4WS4W8ca02k)
+- [App Store Product Page](../assets/App%20Store%20Product%20Page.fig)
 
 ### Sync
 
